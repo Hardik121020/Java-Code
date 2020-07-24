@@ -57,7 +57,7 @@ class Test_03
 	{
 		Addition a = new Addition();
 		a.sum(10,10);
-		Substraction s=new Subtraction();
+		Subtraction s=new Subtraction();
 		s.sub(5,10);
 		Multiplication m=new Multiplication();
 		m.Multi(10,10);
